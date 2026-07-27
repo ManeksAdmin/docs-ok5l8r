@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-oil50p.moretickets-louvre-only.icu/sitemap.xml
